@@ -1,0 +1,1 @@
+curl -sSL https://raw.githubusercontent.com/will-s-stone/homelab-vm-setup/main/install.sh | bash
